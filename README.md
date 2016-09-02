@@ -1,25 +1,18 @@
 Spectrum_Analyzer_Cube
 ======================
 
-Application for 3D 512 (8x8x8) Led Cube <To Add: Youtube Link>
+Application for 3D 512 (8x8x8) Led Cube
 
-Led Cube Project
+Youtube Video: https://www.youtube.com/watch?v=AxIHtYRWarw
+
+Led Cube Project: https://github.com/PatrykChrabaszcz/Cube-8x8x8
 
 Robomatic: http://robomatic.org
 
-Autors: 
-Magdalena Malenda 
-Patryk Chrabąszcz 
-Tomasz Gąsior 
-Radosław Ławrynowicz
+Application in C++ using Qt library, working on  Ubuntu 12.04
 
-Application in C++ using Qt library, working on Ubuntu 12.04
-
-Libraries: 
-Qt5 
-QExtSerialPort 
+Libraries:
+Qt5
+QExtSerialPort
 fftw3
 
-Project documentation:
-
-Videos: 
